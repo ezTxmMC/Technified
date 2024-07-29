@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "moredefaultarmor:block/deepslate_technite_ore"
+  }
+}
