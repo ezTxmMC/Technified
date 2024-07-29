@@ -2,5 +2,11 @@
   "itemGroup.technified": "Technified",
   "item.technified.technical_core": "Technical Core",
   "item.technified.technite_raw": "Raw Technite",
-  "item.technified.technite_ingot": "Technite Ingot"
+  "item.technified.technite_ingot": "Technite Ingot",
+  "item.technified.technite_ore": "Technite Ore",
+  "item.technified.deepslate_technite_ore": "Deepslate Technite Ore",
+  "item.technified.technite_block": "Technite Block",
+  "block.technified.technite_ore": "Technite Ore",
+  "block.technified.deepslate_technite_ore": "Deepslate Technite Ore",
+  "block.technified.technite_block": "Technite Block"
 }
